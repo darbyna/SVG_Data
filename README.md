@@ -11,7 +11,7 @@ Data for this project is essential and examining the method by which the data wa
 
 In this data analysis, you will come upon a plethora of different figures. Please find below a pre-print of each figure that is constructed in the code: 
 
-
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure%204.png?raw=true)
 
 
 
