@@ -11,10 +11,55 @@ Data for this project is essential and examining the method by which the data wa
 
 In this data analysis, you will come upon a plethora of different figures. Please find below a pre-print of each figure that is constructed in the code: 
 
+### Figure 1
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure1.png?raw=true)
+
+### Figure 2 
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure2.png?raw=true)
+
+### Figure 3
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure3.png?raw=true)
+
+### Figure 4
 ![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure%204.png?raw=true)
 
+### Figure 5
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure5.png?raw=true)
 
+### Figure 6
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure6.png?raw=true)
 
+### Figure 7
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure7.png?raw=true)
+
+### Figure 8 
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure8.png?raw=true)
+
+### Figure 9 
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure9.png?raw=true)
+
+### Figure 10 
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure10.png?raw=true)
+
+### Figure 11
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure11.png?raw=true)
+
+### Figure 12
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure12.png?raw=true)
+
+### Figure 13
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure13.png?raw=true)
+
+### Figure 14
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure14.png?raw=true)
+
+### Figure 15
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure15.png?raw=true)
+
+### Figure 16
+![](https://github.com/darbyna/SVG_Data/blob/master/Figures/figure16.png?raw=true)
+
+Note that most of these figures are representing the distribution of workers based on their occupation, gender, and diet. If there are any further questions, feel free to contact me at <u> ndarby2050@gmail.com <u> . 
 
 ## Package Installations 
 
