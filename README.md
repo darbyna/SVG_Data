@@ -67,9 +67,9 @@ Note that most of these figures are representing the distribution of workers bas
 
 It is necessary to install the following packages if attempting to recapitulate this project. With the packages listed below, you will be able to compile data and utilize the tools necessary for concocting a proper survey code:
 
-pandas
-numpy
-matplotlib.pyplot
+ - pandas
+ - numpy
+ - matplotlib.pyplot
 
 
 Upon installation of the packages above, be certain to patch the "matplotlib.pyplot" package to ensure that your charts are able to be displayed upon calling the ".show()" operation. 
